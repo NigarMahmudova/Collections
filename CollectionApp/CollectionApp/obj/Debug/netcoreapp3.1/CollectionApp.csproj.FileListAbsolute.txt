@@ -1,0 +1,14 @@
+C:\Users\User Widnows 10 Home\Documents\C#\13. 07022023\CollectionApp\CollectionApp\bin\Debug\netcoreapp3.1\CollectionApp.exe
+C:\Users\User Widnows 10 Home\Documents\C#\13. 07022023\CollectionApp\CollectionApp\bin\Debug\netcoreapp3.1\CollectionApp.deps.json
+C:\Users\User Widnows 10 Home\Documents\C#\13. 07022023\CollectionApp\CollectionApp\bin\Debug\netcoreapp3.1\CollectionApp.runtimeconfig.json
+C:\Users\User Widnows 10 Home\Documents\C#\13. 07022023\CollectionApp\CollectionApp\bin\Debug\netcoreapp3.1\CollectionApp.runtimeconfig.dev.json
+C:\Users\User Widnows 10 Home\Documents\C#\13. 07022023\CollectionApp\CollectionApp\bin\Debug\netcoreapp3.1\CollectionApp.dll
+C:\Users\User Widnows 10 Home\Documents\C#\13. 07022023\CollectionApp\CollectionApp\bin\Debug\netcoreapp3.1\CollectionApp.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\13. 07022023\CollectionApp\CollectionApp\obj\Debug\netcoreapp3.1\CollectionApp.csproj.AssemblyReference.cache
+C:\Users\User Widnows 10 Home\Documents\C#\13. 07022023\CollectionApp\CollectionApp\obj\Debug\netcoreapp3.1\CollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Widnows 10 Home\Documents\C#\13. 07022023\CollectionApp\CollectionApp\obj\Debug\netcoreapp3.1\CollectionApp.AssemblyInfoInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\13. 07022023\CollectionApp\CollectionApp\obj\Debug\netcoreapp3.1\CollectionApp.AssemblyInfo.cs
+C:\Users\User Widnows 10 Home\Documents\C#\13. 07022023\CollectionApp\CollectionApp\obj\Debug\netcoreapp3.1\CollectionApp.csproj.CoreCompileInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\13. 07022023\CollectionApp\CollectionApp\obj\Debug\netcoreapp3.1\CollectionApp.dll
+C:\Users\User Widnows 10 Home\Documents\C#\13. 07022023\CollectionApp\CollectionApp\obj\Debug\netcoreapp3.1\CollectionApp.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\13. 07022023\CollectionApp\CollectionApp\obj\Debug\netcoreapp3.1\CollectionApp.genruntimeconfig.cache
